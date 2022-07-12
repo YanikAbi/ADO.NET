@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Visual projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj": {}
+    "E:\\Visual studio 2019 projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj": {}
   },
   "projects": {
-    "F:\\Visual projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj": {
+    "E:\\Visual studio 2019 projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Visual projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj",
+        "projectUniqueName": "E:\\Visual studio 2019 projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj",
         "projectName": "Learning ADO",
-        "projectPath": "F:\\Visual projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj",
-        "packagesPath": "C:\\Users\\yani\\.nuget\\packages\\",
-        "outputPath": "F:\\Visual projects\\ADO.NET\\Learning ADO\\Learning ADO\\obj\\",
+        "projectPath": "E:\\Visual studio 2019 projects\\ADO.NET\\Learning ADO\\Learning ADO\\Learning ADO.csproj",
+        "packagesPath": "C:\\Users\\Qni\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual studio 2019 projects\\ADO.NET\\Learning ADO\\Learning ADO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\yani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Qni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +43,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

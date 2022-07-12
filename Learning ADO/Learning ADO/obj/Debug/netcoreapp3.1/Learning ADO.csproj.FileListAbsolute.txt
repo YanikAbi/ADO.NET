@@ -1,0 +1,61 @@
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Learning ADO.exe
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Learning ADO.deps.json
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Learning ADO.runtimeconfig.json
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Learning ADO.runtimeconfig.dev.json
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Learning ADO.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Learning ADO.pdb
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.csproj.AssemblyReference.cache
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.AssemblyInfoInputs.cache
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.AssemblyInfo.cs
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.csproj.CoreCompileInputs.cache
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.csproj.CopyComplete
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.dll
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.pdb
+E:\Visual studio 2019 projects\ADO.NET\Learning ADO\Learning ADO\obj\Debug\netcoreapp3.1\Learning ADO.genruntimeconfig.cache
